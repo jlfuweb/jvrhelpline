@@ -1,0 +1,13 @@
+JVR Helpline
+Jason Fu, Vatsal Parikh, Ronald Lin
+
+interface:
+akinator-type or static quiz-type
+could implement personalized questions
+displays results: whether or not they need mental health and who to contact
+
+implementation:
+start with db/json file??
+webscrapring and/or db file
+
+
